@@ -1,0 +1,30 @@
+#login{
+    color: white;
+  }
+  div>h1, div,span{
+    color: white;
+  }
+  .container{
+    z-index: 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  position: relative;
+  height: 800px;
+  background-image: url("http://urbusinessnetwork.com/wp-content/uploads/2019/09/Coffeeshop-Tips-Cover.jpg");
+  }
+  label, input{
+  margin-left: 30%;
+  margin-top: 5%;
+  
+  }
+  #firstbutton{
+  margin-left: -40%;
+  }
+  
+  .btn{
+  margin-top: 100px;
+  }
+  
+  
+  
