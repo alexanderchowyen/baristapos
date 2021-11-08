@@ -24,3 +24,5 @@ run node server.js
 Navigate to localhost:8080
 Credit
 Modified from Scotch.io's auth tutorial
+
+<img width="1422" alt="Screen Shot 2021-11-07 at 11 23 28 PM" src="https://user-images.githubusercontent.com/89674474/140684203-2c04a27a-649a-4222-80c9-ddf657c71417.png">
