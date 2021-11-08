@@ -15,7 +15,7 @@ Through building this app, I was able to further strengthen my abilities with CR
 
 Optimizations
 CSS can be tweaked more to make the site a little more crisp. maybe larger icons and text.
-###################################################################################################
+
 Installation
 Clone repo
 run npm install
