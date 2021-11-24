@@ -15,7 +15,7 @@ Lessons Learned:
 Through building this app, I was able to further strengthen my abilities with CRUD applications. I was also able to work on my CSS by styiling it out rather than using a template.
 
 ## Optimizations
-CSS can be tweaked more to make the site a little more crisp. maybe larger icons and text.
+CSS can be tweaked more to make the site a little more crisp. maybe larger icons and text. 
 
 
 ## Installation
